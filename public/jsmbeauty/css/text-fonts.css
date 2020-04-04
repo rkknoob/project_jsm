@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Gotham";
+    src: url("/fonts/Gotham/GothamMedium_1.ttf");
+}
+@font-face {
+    font-family: "Gotham-1";
+    src: url("/fonts/Gotham/Gotham-Light.ttf");
+}
+
+@font-face {
+    font-family: "Sukhumvit";
+    src: url("/fonts/Sukhumvit/SukhumvitSet-Medium.ttf");
+}
+
+
+.text-gotham {
+    font-family: "Gotham" !important;
+}
+
+.detail-gotham {
+    font-family: "Gotham-1" !important;
+    font-weight: 600;
+}
+
+
+.product-font {
+    font-family: "Exo 2", "Nanum Gothic", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+}

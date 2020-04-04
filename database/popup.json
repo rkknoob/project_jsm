@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "name_en": "Pop-Up",
+      "name_th": null,
+      "img_en": "20191211161341.png",
+      "img_th": null,
+      "is_active": "N",
+      "created_at": "2019-12-09 15:47:41",
+      "updated_at": "2019-12-11 16:13:43",
+      "link": null,
+      "user_id": null
+    }
+]

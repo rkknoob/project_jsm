@@ -1,0 +1,249 @@
+@extends('layouts.template.frontend')
+
+<style type="text/css">
+#ju-container .ju-page-title {
+    margin-top: 179px;
+    margin-bottom: 0px !important;
+}
+
+#content {
+    width: 480px;
+    margin: 0 auto;
+
+}
+
+.btnlogin {
+    width: 100%;
+    text-align: center;
+    padding: 12px 15px;
+    font-weight: bold;
+    color: #fff;
+    background: #292828;
+    border: 1px solid #292828;
+
+}
+
+.u_menu>li {
+
+    position: relative;
+    display: inline-block;
+
+    padding: 0 12px 0 13px;
+}
+
+.u_menu>li>a {
+    color: #777;
+}
+
+.well.well-white {
+    border-top: 2px solid #333;
+    border-bottom: none !important;
+    border-radius: 0px !important;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 37px !important;
+    padding: 6px 6px 6px 140px ! important;
+    font-size: 14px;
+    line-height: 1.65;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 0 !important;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+input:valid,
+textarea:valid {
+    background-color: #fff !important;
+    border-radius: 0 !important;
+    box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075), 0 0 0px rgba(102, 175, 233, .6) !important;
+}
+
+input:invalid,
+textarea:invalid {
+    background-color: #fff !important;
+    border-radius: 0 !important;
+    box-shadow: inset 0 0px 0px rgba(0, 0, 0, .075), 0 0 0px rgba(102, 175, 233, .6) !important;
+
+}
+
+.form-control:focus {
+    border-color: #e51a94 !important;
+    -webkit-box-shadow: none;
+}
+
+.text--email {
+    margin-top: -28px;
+    margin-left: 10px;
+    position: absolute;
+    color: #ccc !important;
+}
+
+/* Horizontal 6/7/8 Plus*/
+@media screen and (max-width: 736px) {
+
+    #content {
+        width: 280px;
+
+    }
+
+    #ju-container .ju-page-title {
+        margin-top: 10px !important;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    h1.entry-title {
+
+        margin-bottom: 0px !important;
+    }
+}
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="csrf-token" content="{{ csrf_token() }}">
+
+    <title> JSM Login </title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+</head>
+
+@section('content')
+<div id="ju-container">
+    <div id="ju-content" class="container">
+        <div class="ju-page-title">
+            <h1 class="entry-title text-gotham text-left">RESET NEW PASSWORD</h1>
+            <div class="well well-white">
+                <p class="h_msg">if you sign up now. you will be given more benefits</p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <form action="#">
+                        {{ csrf_field() }}
+
+                        <div id="content">
+
+                            <input type="hidden" class="form-control" name="id" id="id" value="{{ $user->id }}">
+                            <div class="form-group">
+                                <div class="row">
+                                    <div class="col-md-12 col-sm-12 col-xs-12">
+                                        <input id="email" type="email"
+                                            class="form-control @error('email') is-invalid @enderror" name="email"
+                                            value="{{ $user->email }}" required autocomplete="email" autofocus
+                                            placeholder="">
+                                        <span class="text--email">E-MAIL</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="row">
+                                    <div class="col-md-12 col-sm-12 col-xs-12">
+                                        <input id="password" type="password" class="form-control" name="password"
+                                            value="" required autofocus placeholder="">
+                                        <span class="text--email">Password</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="row">
+                                    <div class="col-md-12 col-sm-12 col-xs-12">
+                                        <input id="password_con" type="password" class="form-control"
+                                            name="password_con" value="" required autofocus placeholder="">
+                                        <span class="text--email">Re-Enter Password</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <button type="button" name="submit" id="submit"
+                                            class="button btnlogin btn-save">Save</button>
+                                    </div>
+                                </div>
+                            </div>
+                            <br><br><br>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.6.9/sweetalert2.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/6.6.9/sweetalert2.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.js"></script>
+<script>
+if (!window.moment) {
+    document.write('<script src="assets/plugins/moment/moment.min.js"><\/script>');
+}
+</script>
+<script type="text/javascript">
+$('body').on('click', '.btn-save', function() {
+    var id = $('#id').val();
+    var password = $('#password').val();
+    var password_con = $('#password_con').val();
+
+
+    if (password != password_con) {
+        return swal("Error", "Password Not Same ", "error");
+    }
+    if ((password == '') || (password_con == '')) {
+
+        return swal("Error", "กรุณากรอกข้อมูลให้ครบ", "error");
+    }
+
+
+    $.ajaxSetup({
+        headers: {
+            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+        }
+    });
+
+    $.ajax({
+        dataType: 'json',
+        type: 'post',
+        data: {
+            id: id,
+            password: password,
+            password_con: password_con
+        },
+        url: '/resetpassword/update/' + id,
+        success: function(datas) {
+            console.log(datas);
+            if (datas.code == 500) {
+                swal("Error job!", "You Check Is Active No!", "error");
+            } else if (datas.code_return == 200) {
+                swal("Good job!", "You clicked the button!", "success");
+                var base_url = window.location.origin;
+                //         window.location.replace = '/backoffice/products';
+                setTimeout(function() {
+                    window.location.replace(base_url + '/login')
+                }, 1000);
+            } else if (datas.code == 501) {
+                swal("Error job!", "You Check Email Same Data!", "error");
+            } else {
+                swal("Error job!", "Contact Admin", "error");
+            }
+
+        }
+    });
+});
+</script>
+
+
+@endsection

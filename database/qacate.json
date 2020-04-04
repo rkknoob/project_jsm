@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Product inquiry",
+        "created_at": "2019-12-08 22:33:33",
+        "updated_at": "2019-12-08 22:33:33"
+    },
+    {
+        "id": 2,
+        "name": "Shipping inquiry",
+        "created_at": "2019-12-08 22:33:33",
+        "updated_at": "2019-12-08 22:33:33"
+    },
+    {
+        "id": 3,
+        "name": "Payment inquiry",
+        "created_at": "2019-12-08 22:33:33",
+        "updated_at": "2019-12-08 22:33:33"
+    },
+    {
+        "id": 4,
+        "name": "Cancel request (Before shipping)",
+        "created_at": "2019-12-08 22:33:33",
+        "updated_at": "2019-12-08 22:33:33"
+    },
+    {
+        "id": 5,
+        "name": "Exchange&Refund",
+        "created_at": "2019-12-08 22:33:33",
+        "updated_at": "2019-12-08 22:33:33"
+    }
+]

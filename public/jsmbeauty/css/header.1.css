@@ -1,0 +1,10 @@
+/* BASIC css start */
+#passimg h1 { margin:0 0 35px !important; }
+#passimg h1 a { background-color: #525c6a !important; }
+#passimg h1 a img { vertical-align:top; }
+.pagination>li>a.first i ,
+.pagination>li>a.end i { font-size:11px; }
+#bbsData .table>tbody>tr>td a { color:#333; }
+.btn-group .cart { display:block !important; }
+/* BASIC css end */
+

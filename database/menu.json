@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name_en": "JUNGSAEMMOOL",
+        "name_th": "JUNGSAEMMOOL",
+        "parent_id": 1,
+        "uri": null,
+        "sort": 1,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-25 01:22:18"
+    },
+    {
+        "id": 2,
+        "name_en": "BRAND JSM",
+        "name_th": "BRAND JSM",
+        "parent_id": 1,
+        "uri": "/brand",
+        "sort": 2,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-25 01:22:26"
+    },
+    {
+        "id": 3,
+        "name_en": "ARTIST JSM",
+        "name_th": "ARTIST JSM",
+        "parent_id": 1,
+        "uri": "/artist",
+        "sort": 3,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 4,
+        "name_en": "ARTIST TIP",
+        "name_th": "ARTIST TIP",
+        "parent_id": 1,
+        "uri": "/artisttip",
+        "sort": 4,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 5,
+        "name_en": "FIND A STORE",
+        "name_th": "FIND A STORE",
+        "parent_id": 1,
+        "uri": "/store",
+        "sort": 5,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 6,
+        "name_en": "PRODUCT",
+        "name_th": "PRODUCT",
+        "parent_id": 2,
+        "uri": "/Product/Category/list/cid/0",
+        "sort": 1,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 7,
+        "name_en": "BEST SELLERS",
+        "name_th": "BEST SELLERS",
+        "parent_id": 2,
+        "uri": "/Product/Category/list/cid/150",
+        "sort": 2,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 8,
+        "name_en": "BASE",
+        "name_th": "BASE",
+        "parent_id": 2,
+        "uri": "/Product/Category/list/cid/1",
+        "sort": 3,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 9,
+        "name_en": "LIP",
+        "name_th": "LIP",
+        "parent_id": 2,
+        "uri": "/Product/Category/list/cid/2",
+        "sort": 4,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 10,
+        "name_en": "EYE",
+        "name_th": "EYE",
+        "parent_id": 2,
+        "uri": "/Product/Category/list/cid/3",
+        "sort": 5,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 11,
+        "name_en": "SKINCARE",
+        "name_th": "SKINCARE",
+        "parent_id": 2,
+        "uri": "/Product/Category/list/cid/4",
+        "sort": 6,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 12,
+        "name_en": "TOOL",
+        "name_th": "TOOL",
+        "parent_id": 2,
+        "uri": "/Product/Category/list/cid/5",
+        "sort": 7,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 13,
+        "name_en": "LOUNGE",
+        "name_th": "LOUNGE",
+        "parent_id": 3,
+        "uri": null,
+        "sort": 1,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 14,
+        "name_en": "EVENT",
+        "name_th": "EVENT",
+        "parent_id": 3,
+        "uri": "/event",
+        "sort": 2,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 15,
+        "name_en": "NEW ARRIVAL",
+        "name_th": "NEW ARRIVAL",
+        "parent_id": 3,
+        "uri": "/linestory",
+        "sort": 3,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 16,
+        "name_en": "CONTACT",
+        "name_th": "CONTACT",
+        "parent_id": 4,
+        "uri": null,
+        "sort": 1,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 17,
+        "name_en": "FAQ",
+        "name_th": "FAQ",
+        "parent_id": 4,
+        "uri": "/faq",
+        "sort": 2,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 18,
+        "name_en": "NOTICE",
+        "name_th": "NOTICE",
+        "parent_id": 4,
+        "uri": "/notice",
+        "sort": 3,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11"
+    },
+    {
+        "id": 19,
+        "name_en": "Q&A",
+        "name_th": "Q&A",
+        "parent_id": 4,
+        "uri": "/qa",
+        "sort": 2,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-25 01:28:00"
+    },
+    {
+        "id": 20,
+        "name_en": "REVIEW",
+        "name_th": "REVIEW",
+        "parent_id": 4,
+        "uri": "/review",
+        "sort": 4,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-25 01:28:25"
+    }
+]

@@ -1,0 +1,132 @@
+/* ì œí’ˆìƒì„¸ */
+
+.woocommerce-page .product_detail_title_area{
+	text-align: center;
+}
+.woocommerce-page .product_detail_title_area h3{
+	font-size: 36px;
+	letter-spacing: -1px;
+	margin-bottom: 0px;
+}
+.woocommerce-page .product_detail_title_area h1{
+	font-weight: 100;
+	font-size: 50px;
+	letter-spacing: -1px;
+	margin-top: 0px;
+	display: inline-block;
+	position: relative;
+	
+}
+.woocommerce-page .product_detail_title_area h1:after{
+	content: '';
+	position: absolute;
+	left: 0;
+	display: inline-block;
+	bottom: -10px;
+	height: 1px;
+	width: 100%;
+	
+	margin-top: 5px;
+}
+
+.woocommerce-page .product_detail_subtitle_area h2{
+	line-height: 1.45;
+	letter-spacing: -1px;
+	margin-bottom: 0px;
+}
+.woocommerce-page .product_detail_subtitle_area h4{
+	line-height: 1.45;
+	letter-spacing: -1px;
+	font-weight: 100;
+	margin-top: 0;
+	font-size: 20px;
+}
+
+.entry-summary .stock{
+	display: none;
+}
+
+/* ì²´í¬ë¦¬ìŠ¤íŠ¸ */
+.woocommerce-page .vc_toggle .vc_toggle_title{
+	padding-left: 39px !important;
+}
+.woocommerce-page .vc_toggle .vc_toggle_title > h4{
+	letter-spacing: -1px;
+	cursor: text;
+	display: block;
+}
+.woocommerce-page .vc_toggle .vc_toggle_title .vc_toggle_icon{
+	width: 34px;
+	height: 29px;
+	background-image: url(/design/jsmbeauty/common/check_icon.gif);
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	border: 0px;
+	margin: 0;
+	background-color: transparent;
+}
+.woocommerce-page .vc_toggle .vc_toggle_title .vc_toggle_icon:before,
+.woocommerce-page .vc_toggle .vc_toggle_title .vc_toggle_icon:after{
+	display: none;
+}
+.woocommerce-page .vc_toggle .vc_toggle_content{
+	display: block !important;
+	font-size: 18px;
+	letter-spacing: -1px;
+	color: #57585a;
+	padding-left: 39px !important;
+}
+
+
+/* ìƒí’ˆìƒì„¸ - íŠ¹ì§• : .well-product-info  */
+.well-product-info > .wpb_wrapper{
+	border: 1px solid #555;
+	padding: 30px;
+}
+.well-product-info h4{
+	margin-top: 0px;
+	border-bottom: 1px solid #999;
+	padding-bottom: 15px;
+	letter-spacing: -1px;
+}
+.well-product-info p{
+	font-size: 16px;
+}
+
+/* ì œí’ˆì‚¬ìš©ë°©ë²• : .product-how-to */
+.product-how-to{
+	padding-bottom: 10px;
+	margin-bottom: 0px !important;
+	margin-top: 10px !important;/* 50px*/
+}
+.product-how-to h1{
+	font-size: 50px;
+	font-weight: 100;
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 15px;
+	margin-top: 2px;
+}
+.product-how-to p{
+	font-size: 16px;
+	margin-bottom: 30px;
+}
+
+
+
+.sold-out{
+	position: absolute;
+	background-color: #e51a92;
+	color: #fff;
+	top: 10px;
+	left: 10px;
+	line-height: 1;
+	text-align: center;
+	width: 60px;
+	height: 60px;
+	vertical-align: middle;
+	border-radius: 50px;
+	font-size: 11px;
+	line-height: 60px;
+}
+.f_title_div{margin-top:20px;}
+.detail_text_top_div h1{margin-top:30px; text-align: center;}

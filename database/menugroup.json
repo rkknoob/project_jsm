@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name_en": "ADMIN",
+        "name_th": "แอดมิน",
+        "is_active": "Y",
+        "menu_id": null,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-24 16:00:00",
+        "sort_id": 1
+    },
+    {
+        "id": 2,
+        "name_en": "PRODUCT",
+        "name_th": "ผลิตภัณฑ์",
+        "is_active": "Y",
+        "menu_id": null,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11",
+        "sort_id": 2
+    },
+    {
+        "id": 3,
+        "name_en": "INDEX",
+        "name_th": "อินเด็กซ์",
+        "is_active": "Y",
+        "menu_id": null,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11",
+        "sort_id": 3
+    },
+    {
+        "id": 4,
+        "name_en": "JUNG SAEM MOOL",
+        "name_th": "จองแซมมุล",
+        "is_active": "Y",
+        "menu_id": null,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11",
+        "sort_id": 4
+    },
+    {
+        "id": 5,
+        "name_en": "LOUNGE",
+        "name_th": "เลาจน์",
+        "is_active": "Y",
+        "menu_id": null,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11",
+        "sort_id": 5
+    },
+    {
+        "id": 6,
+        "name_en": "CONTACT",
+        "name_th": "ติดต่อ",
+        "is_active": "Y",
+        "menu_id": null,
+        "created_at": "2019-12-21 16:59:11",
+        "updated_at": "2019-12-21 16:59:11",
+        "sort_id": 6
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "subject_en": "JUNGSAEMMOOL",
+        "subject_th": "จองแซมมุล",
+        "summary_en": "JUNGSAEMMOOL",
+        "summary_th": "JUNGSAEMMOOL Thailand",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:48:54"
+    },
+    {
+        "id": 2,
+        "subject_en": "BRAND JSM",
+        "subject_th": "แบรนด์ JSM",
+        "summary_en": "Brand JUNGSAEMMOOL",
+        "summary_th": "แบรนด์ JUNGSAEMMOOL",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:49:12"
+    },
+    {
+        "id": 3,
+        "subject_en": "ARTIST JSM",
+        "subject_th": "อาร์ติส JSM",
+        "summary_en": "Artist JUNGSAEMMOOL",
+        "summary_th": "อาร์ติส JUNGSAEMMOOL",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:50:41"
+    },
+    {
+        "id": 4,
+        "subject_en": "ARTIST TIP",
+        "subject_th": "ข้อแนะนำอาร์สติก",
+        "summary_en": "JUNGSAEMMOOL BEAUTY TIP",
+        "summary_th": "ข้อแนะนำความงาม",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:52:19"
+    },
+    {
+        "id": 5,
+        "subject_en": "FIND A STORE",
+        "subject_th": "สาขาสโตร์",
+        "summary_en": "FIND A STORE",
+        "summary_th": "สาขาสโตร์",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:52:36"
+    },
+    {
+        "id": 6,
+        "subject_en": "PRODUCT",
+        "subject_th": "ผลิตภัณฑ์",
+        "summary_en": "PRODUCT",
+        "summary_th": "ผลิตภัณฑ์",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:52:59"
+    },
+    {
+        "id": 7,
+        "subject_en": "BEST SELLERS",
+        "subject_th": "ผลิตภัณฑ์ขายดี",
+        "summary_en": "BEST SELLERS",
+        "summary_th": "ผลิตภัณฑ์ขายดี",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:53:22"
+    },
+    {
+        "id": 8,
+        "subject_en": "BASE",
+        "subject_th": "รองพื้น",
+        "summary_en": "BASE",
+        "summary_th": "รองพื้น",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:53:35"
+    },
+    {
+        "id": 9,
+        "subject_en": "LIP",
+        "subject_th": "ลิป",
+        "summary_en": "LIP",
+        "summary_th": "ลิป",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:53:46"
+    },
+    {
+        "id": 10,
+        "subject_en": "EYE",
+        "subject_th": "ตา",
+        "summary_en": "EYE",
+        "summary_th": "ตา",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:54:04"
+    },
+    {
+        "id": 11,
+        "subject_en": "SKINCARE",
+        "subject_th": "สกินแคร์",
+        "summary_en": "SKINCARE",
+        "summary_th": "สกินแคร์",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:54:17"
+    },
+    {
+        "id": 12,
+        "subject_en": "TOOL",
+        "subject_th": "เครื่องมือ",
+        "summary_en": "TOOL",
+        "summary_th": "เครื่องมือ",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:54:41"
+    },
+    {
+        "id": 13,
+        "subject_en": "LOUNGE",
+        "subject_th": "เลาจน์",
+        "summary_en": "LOUNGE",
+        "summary_th": "เลาจน์",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:55:23"
+    },
+    {
+        "id": 14,
+        "subject_en": "EVENT",
+        "subject_th": "อีเว้นท์",
+        "summary_en": "JUNGSAEMMOOL BEAUTY EVENT",
+        "summary_th": "อีเว้นท์",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:55:47"
+    },
+    {
+        "id": 15,
+        "subject_en": "NEW ARRIVAL",
+        "subject_th": "สินค้ามาใหม่",
+        "summary_en": "NEW ARRIVAL",
+        "summary_th": "สินค้ามาใหม่",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:56:49"
+    },
+    {
+        "id": 16,
+        "subject_en": "CONTACT",
+        "subject_th": "ติดต่อ",
+        "summary_en": "CONTACT",
+        "summary_th": "ติดต่อ",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:57:10"
+    },
+    {
+        "id": 17,
+        "subject_en": "FAQ",
+        "subject_th": "คำถามที่พบบ่อย",
+        "summary_en": "FAQ",
+        "summary_th": "คำถามที่พบบ่อย",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:57:53"
+    },
+    {
+        "id": 18,
+        "subject_en": "NOTICE",
+        "subject_th": "แจ้งเตือน",
+        "summary_en": "NOTICE",
+        "summary_th": "แจ้งเตือน",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:58:08"
+    },
+    {
+        "id": 19,
+        "subject_en": "Q&A",
+        "subject_th": "ถาม-ตอบ",
+        "summary_en": "Q&A",
+        "summary_th": "ถาม-ตอบ",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:56:25"
+    },
+    {
+        "id": 20,
+        "subject_en": "REVIEW",
+        "subject_th": "รีวิว",
+        "summary_en": "REVIEW",
+        "summary_th": "รีวิวสินค้า",
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-24 22:58:59"
+    }
+]

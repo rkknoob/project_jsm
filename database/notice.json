@@ -1,0 +1,24 @@
+[
+  {
+      "id": 1,
+      "name": "JSM",
+      "content": "JSM Beauty Global Mall Shipping Notice",
+      "type": "normal",
+      "detail": "20191206171857tKeWR.jpg",
+      "hit": 3,
+      "is_active": "Y",
+      "created_at": "2020-02-18 11:48:13",
+      "updated_at": "2020-02-25 17:24:10"
+  },
+  {
+      "id": 2,
+      "name": "JSM Beauty",
+      "content": "Shipping notice for Lunar New Year",
+      "type": "normal",
+      "detail": "20200226144003FZ9cZ.jpg",
+      "hit": 14,
+      "is_active": "Y",
+      "created_at": "2020-02-18 11:48:13",
+      "updated_at": "2020-02-26 14:40:04"
+  }
+]

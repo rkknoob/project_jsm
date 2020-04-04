@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "type": null,
+    "id_category": 4,
+    "id_product": 45,
+    "seq" : 1,
+    "name_en": "ESSENTIAL MOOL RADIANCE CREAM",
+    "name_th": null,
+    "img_en": "20191202120740.jpg",
+    "img_th": "20191202120744.jpg",
+    "is_active": "Y",
+    "created_at": "2019-12-09 15:47:41",
+    "updated_at": "2019-12-09 15:47:41"
+  },
+  {
+    "id": 2,
+    "type": null,
+    "id_category": 4,
+    "id_product": 50,
+    "seq" : 2,
+    "name_en": "MINIFYING VC AMPOULE",
+    "name_th": null,
+    "img_en": "20191202121308.jpg",
+    "img_th": "20191202121312.jpg",
+    "is_active": "Y",
+    "created_at": "2019-12-09 15:47:41",
+    "updated_at": "2019-12-09 15:47:41"
+  },
+  {
+    "id": 3,
+    "type": null,
+    "id_category": 2,
+    "id_product": 25,
+    "seq" : 3,
+    "name_en": "LIP-PRESSION #Newtro Chilly",
+    "name_th": null,
+    "img_en": "20191211160735.jpg",
+    "img_th": "20191211160739.jpg",
+    "is_active": "Y",
+    "created_at": "2019-12-09 15:47:41",
+    "updated_at": "2019-12-11 16:07:43"
+  }
+]

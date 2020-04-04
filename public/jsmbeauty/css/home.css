@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+.bg-body {
+    background-color: black;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-menu {
+    background-color: white;
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1152px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        width: 952px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        width: 732px;
+    }
+}

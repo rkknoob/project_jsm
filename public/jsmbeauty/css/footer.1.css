@@ -1,0 +1,19 @@
+/* BASIC css start */
+/* ftLink */
+#ftLink { margin-top: 60px; background-color: #282828; border-top: 2px solid #eaeaea; border-bottom: 2px solid #eaeaea; }
+#ftLink .link { text-align: center; font-size:0; line-height: 0;}
+#ftLink .link li { display: inline; }
+#ftLink .link a { display: inline-block; height: 25px; padding-left: 11px; padding-right: 10px; font-size: 11px; line-height: 25px; color: #d3d3d3; background: url(/images/d3/modern_simple/common/bull_ftlink.gif) no-repeat 0 45%;}
+#ftLink .link li.first a { padding-left: 0; background-image: none; }
+/* footer */
+#ftWrap { position: relative; margin-top: 30px; }
+#footer { min-height: 85px; _height: 85px; padding-left: 210px; width: 690px; padding-bottom: 20px; background: url(/images/d3/modern_simple/ft_bi.gif) no-repeat 30px 10px; }
+#footer p { padding-bottom: 3px;  }
+#footer p,
+#footer p a { font-size: 11px;color: #aeaeae; }
+#footer address { padding-top: 5px; font-size: 0; line-height: 0; }
+#footer address img { vertical-align: middle; }
+#footer address a { margin-left: 10px; }
+#footer .escro { position: absolute; right: 0px; top: -5px; }
+/* BASIC css end */
+

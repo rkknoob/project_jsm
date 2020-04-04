@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "title": "Review Lip",
+        "product_id": 21,
+        "user_id": 4,
+        "score": "4",
+        "content": "<p><span style=\"color: rgb(51, 51, 51); font-family: Tahoma; font-size: 14px;\">ราคาน่ารัก​ แถมกลิ่นหอมมากๆด้วย​ หาซื้อง่ายๆ​ ข้างบ้านเลยจ้าา​ เซเว่นน​ ราคาก็ไม่แพงนัก​ เห็นคนรีวิวเยอะมากเลยเลยลองใช้</span><br></p>",
+        "status": "Y",
+        "hit": 5,
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-20 22:40:12"
+    },
+    {
+        "id": 2,
+        "title": "Review Eye",
+        "product_id": 26,
+        "user_id": 4,
+        "score": "2",
+        "content": "<p><span style=\"font-family: Arial, Helvetica, sans-serif, Geneva, Tahoma; font-size: 16.002px;\"><font color=\"#ff9c00\">ถูกและดี</font></span><br></p>",
+        "status": "Y",
+        "hit": 3,
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-25 07:37:27"
+    },
+    {
+        "id": 3,
+        "title": "Review Base",
+        "product_id": 11,
+        "user_id": 4,
+        "score": "3",
+        "content": "<p><span style=\"color: rgb(192, 192, 192); font-family: Arial, Helvetica, sans-serif, Geneva, Tahoma; font-size: 16.002px; background-color: rgb(34, 34, 68);\">ค่อย ๆ มาไล่อ่านและพบว่า มันคือ คลังแสงชัด ๆ</span><br></p>",
+        "status": "Y",
+        "hit": 2,
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-20 22:40:24"
+    },
+    {
+        "id": 4,
+        "title": "Review Tool",
+        "product_id": 78,
+        "user_id": 3,
+        "score": "4",
+        "content": "กระดาษนุ่น และอ่อนโยนต่อผิว",
+        "status": "Y",
+        "hit": 4,
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-25 03:19:59"
+    },
+    {
+        "id": 5,
+        "title": "Review Skincare",
+        "product_id": 47,
+        "user_id": 3,
+        "score": "3",
+        "content": "<p>ถูกและดี</p>",
+        "status": "Y",
+        "hit": 5,
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-25 14:44:07"
+    },
+    {
+        "id": 6,
+        "title": "ทดสอบรีวิวแอดมิน",
+        "product_id": 79,
+        "user_id": 3,
+        "score": "5",
+        "content": "<p>Puff นุ่มมาก</p>",
+        "status": "Y",
+        "hit": 3,
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-25 17:33:41"
+    },
+    {
+        "id": 7,
+        "title": "ทดสอบรีวิวแอดมิน2",
+        "product_id": 69,
+        "user_id": 1,
+        "score": "4",
+        "content": "<p>แปรงนุ่มมาก</p>",
+        "status": "Y",
+        "hit": 3,
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-25 01:53:35"
+    },
+    {
+        "id": 8,
+        "title": "แก้ไขรีวิวแอดมิน",
+        "product_id": 21,
+        "user_id": 3,
+        "score": "3",
+        "content": "สี Lip สดมาก",
+        "status": "Y",
+        "hit": 7,
+        "created_at": "2020-02-18 11:48:18",
+        "updated_at": "2020-02-25 04:46:24"
+    },
+    {
+        "id": 9,
+        "title": "Test <script>alert(111)</script>",
+        "product_id": 1,
+        "user_id": 1,
+        "score": "1",
+        "content": "test <script>alert(document.cookie)</script>",
+        "status": "Y",
+        "hit": 126,
+        "created_at": "2020-02-21 22:39:13",
+        "updated_at": "2020-02-22 09:50:07"
+    }
+]

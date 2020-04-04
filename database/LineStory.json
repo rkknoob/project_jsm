@@ -1,0 +1,62 @@
+[
+  {
+      "id": 1,
+      "name_en": "Clean Start",
+      "name_th": null,
+      "banner_en": "20191125161034Zcynz.jpg",
+      "banner_th": null,
+      "detail_en": null,
+      "detail_th": null,
+      "is_active": "Y",
+      "created_at": "2020-02-26 16:02:36",
+      "updated_at": "2020-02-26 16:02:36"
+  },
+  {
+      "id": 2,
+      "name_en": "Find Your Aura",
+      "name_th": null,
+      "banner_en": "201911251611085RViv.jpg",
+      "banner_th": null,
+      "detail_en": null,
+      "detail_th": null,
+      "is_active": "Y",
+      "created_at": "2020-02-26 16:02:36",
+      "updated_at": "2020-02-26 16:02:36"
+  },
+  {
+      "id": 3,
+      "name_en": "A Double Boosting Suncare",
+      "name_th": null,
+      "banner_en": "20191125161142emHSQ.jpg",
+      "banner_th": null,
+      "detail_en": null,
+      "detail_th": null,
+      "is_active": "Y",
+      "created_at": "2020-02-26 16:02:36",
+      "updated_at": "2020-02-26 16:02:36"
+  },
+  {
+      "id": 4,
+      "name_en": "Artist Eye Liner",
+      "name_th": null,
+      "banner_en": "201911251612107YJIc.jpg",
+      "banner_th": null,
+      "detail_en": null,
+      "detail_th": null,
+      "is_active": "Y",
+      "created_at": "2020-02-26 16:02:36",
+      "updated_at": "2020-02-26 16:02:36"
+  },
+  {
+      "id": 5,
+      "name_en": "Skin Setting Base",
+      "name_th": null,
+      "banner_en": "20200226160903gBHf4.jpg",
+      "banner_th": null,
+      "detail_en": null,
+      "detail_th": null,
+      "is_active": "Y",
+      "created_at": "2020-02-26 16:02:36",
+      "updated_at": "2020-02-26 16:09:59"
+  }
+]
